@@ -1,0 +1,11 @@
+{
+  "name": "joehill",
+  "version": "1.0.0",
+  "description": "Unix Time Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Hill",
+  "license": "ISC"
+}
